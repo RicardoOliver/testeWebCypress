@@ -1,0 +1,13 @@
+{
+    "viewportWidth": 1024,
+    "viewportHeight": 768,
+    "baseUrl": "http://automationpractice.com/index.php?controller=authentication&back=my-account",
+    "defaultCommandTimeout": 6000,
+    "pageLoadTimeout": 100000,
+    "video": false,
+    "integrationFolder": "./cypress/integration"
+}
+
+   
+
+
